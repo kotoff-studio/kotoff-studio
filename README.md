@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotoff-studio&langs_count=5&theme=onedark&layout=compact&hide=c,java,objective_c,objective_cpp&exclude_repo=)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotoff-studio&langs_count=5&theme=onedark&layout=compact&hide=c,java,objective-c,objective-c++)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kotoff-studio/kotoff-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
